@@ -1,10 +1,11 @@
-# JavaScript_WebPage
 
-JavaScript: programando na linguagem da web_Alura
+# JavaScript: programando na linguagem da Web #
+
 
 Link para acesso: https://estefaniacarrer.github.io/JavaScript_WebPage/
 
-Tópicos realizados:
+
+# Tópicos realizados: #
 
 ✅Manipulação dos elementos da página;
 
