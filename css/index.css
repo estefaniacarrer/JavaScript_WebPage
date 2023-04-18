@@ -8,7 +8,7 @@ body{
 }
 
 header{
-	background-color: #333;
+	background-color: #434242;
 	height: 3em;
 	color: #FFF;
 	margin-bottom: 1em;
@@ -30,6 +30,7 @@ header .container:before{
 	display:inline-block;
 	height: 100%;
 	vertical-align:	middle;
+	
 }
 
 .container{
@@ -55,23 +56,26 @@ table{
 	width: 100%;
 	margin-bottom : .5em;
     table-layout: fixed;
+	background-color: #EEE;
 
 }
 
 td, th {
 	padding: .7em;
 	margin: 0;
-	border: 1px solid #ccc;
+	border: 1px solid #cccccc;
 	text-align: center;
 }
 
 th{
 	font-weight: bold;
-	background-color: #EEE;
+	background-color: #434242;
+	color: #fff;
 }
 
 label{
-	color: #555;
+	color: #282828;
+	font-size: 16px;
 	display: block;
 	margin-bottom: .2em;
 }
